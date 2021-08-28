@@ -31,7 +31,9 @@ layout: page
 
 ![A woman using a laptop](/images/about.jpg)
 
-The only thing I love more than writing is the process of meeting a new client and figuring out together what needs to be written. Working on a freelance consulting basis exposes me to many types of companies with varied goals and methodologies, and keeps me up to date with all marketing tools and platforms.
+A family owned business based in Angmering, West Sussex.
+We are committed to providing you with a top quality service repairing your vehicle to the highest standards.
+Whatever your needs, be it small repairs from scuffs/ scratches and small dents to full resprays, we are here to help.
 
 ## Credentials
 
