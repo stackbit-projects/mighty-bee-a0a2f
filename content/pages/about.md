@@ -2,7 +2,7 @@
 title: About
 seo:
   title: About Us
-  description: This is the about page
+  description: About 
   extra:
     - name: og:type
       value: website
